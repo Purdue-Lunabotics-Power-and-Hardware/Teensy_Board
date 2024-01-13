@@ -3022,10 +3022,10 @@
     (property "Datasheet" "~" (at 60.96 133.35 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b534180d-41af-4e9c-abaa-ff8a375ec448))
-    (pin "2" (uuid 713de3a1-0158-4ab7-aea0-291602066233))
-    (pin "3" (uuid a4410d42-b3d3-4b5f-8f2f-a064d64f2f94))
-    (pin "4" (uuid 7f1b21fc-f423-4806-a3c1-92acc49039b1))
+    (pin "1" (uuid 271c6c90-1439-48f3-8eaf-7662a72cca3c))
+    (pin "2" (uuid bd653c3e-4531-4c18-ae90-3764ef8a4ad2))
+    (pin "3" (uuid a802c00a-67f8-4cf2-8e10-7496939c9b45))
+    (pin "4" (uuid a16920d6-e752-41a9-b65a-bc2c194c546f))
     (instances
       (project "FinalTeensyBreakoutBoard"
         (path "/a91b2532-b9a9-41b4-bce7-a2dfe37264d5"
